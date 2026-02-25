@@ -13,5 +13,6 @@
     "--background-index",
     "--query-driver=**",
     "--compile-commands-dir=c:\\Users\\Administrator\\Documents\\school\\MCIT\\Microcontrollers-and-Interface-Techniques-12\\LES3\\build"
-  ]
+  ],
+  "idf.flashType": "UART"
 }
