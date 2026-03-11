@@ -10,7 +10,8 @@
             "intelliSenseMode": "windows-gcc-x64",
             "compilerArgs": [
                 ""
-            ]
+            ],
+            "compilerPath": "C:/Users/youss/scoop/apps/mingw/current/bin/gcc.exe"
         }
     ],
     "version": 4
